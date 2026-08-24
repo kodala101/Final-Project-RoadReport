@@ -37,7 +37,6 @@
 - [API Overview](#-api-overview)
 - [Security Notes](#-security-notes)
 - [Automated Jobs & Moderation Rules](#-automated-jobs--moderation-rules)
-- [License](#-license)
 - [Team](#-team)
 
 </details>

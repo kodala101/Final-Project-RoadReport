@@ -371,10 +371,6 @@ All admin actions are blocked against other `ADMIN` accounts (the "Admin Shield"
 
 \* Only for non-ephemeral types: `POTHOLE`, `SPEED_CAMERA`, `POLICE`. `ACCIDENT`, `HEAVY_TRAFFIC`, `ROAD_CLOSURE`, and `CUSTOM` are always temporary and simply expire.
 
-## 📄 License
-
-MIT
-
 ## 👥 Team
 
 Built by a five-person team as a Freeuni OOP final project:
